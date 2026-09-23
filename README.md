@@ -7,4 +7,4 @@
 - Phím tắt Enter (Đăng nhập) & Esc (Thoát)
 
 ## Kết quả chạy chương trình
-![Kết quả demo](./BÀI TẬP 4.1/demo.png)
+<img src="./BÀI%20TẬP%204.1/demo.png" alt="Kết quả demo" width="600"/>
